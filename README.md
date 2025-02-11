@@ -20,3 +20,4 @@ The past two days have been incredibly rewarding as I delved deep into React and
 4. Building a Small UI:
  - Applied my knowledge to build a small, functional user interface using React.
  - Practiced structuring components, managing state, and ensuring responsive and interactive design.
+![image](screencapture-localhost-5173-2025-02-11-14_44_06.png)
