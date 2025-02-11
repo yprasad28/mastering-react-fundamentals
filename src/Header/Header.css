@@ -1,0 +1,24 @@
+.navItem{
+    background-color: blue;
+    height: 80px;
+    
+}
+
+.logo{
+    color: white;
+    font-weight: bold;
+    font-size: 27px;
+    padding-left: 9px;
+    background-color: navy;
+    border-radius: 130px;
+    width: 50px;
+    height: 50px;
+    
+    margin-left: 10px;
+}
+
+.nav-letter{
+    color: white;
+    font-weight: 650;
+    font-size: 20px;
+}

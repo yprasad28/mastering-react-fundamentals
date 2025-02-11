@@ -1,0 +1,12 @@
+.card3{
+    border-radius: 10px solid 2px red;
+    padding: 20px;
+    background-image: url("https://jep-asset.akamaized.net/cms/assets/new-home/freedom-offer-desktop.webp");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    margin-top:20px ;
+   
+    margin-bottom: 50px;
+    height: 70vh;
+}

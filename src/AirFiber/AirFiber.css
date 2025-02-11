@@ -1,0 +1,12 @@
+.card4{
+    border-radius: 10px solid 2px red;
+    padding: 20px;
+    background-image: url("https://jep-asset.akamaized.net/cms/assets/jiofiber/youtube-premium-mob-desk.webp");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    margin-top:20px ;
+   
+    margin-bottom: 50px;
+    height: 70vh;
+}

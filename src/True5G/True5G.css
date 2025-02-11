@@ -1,0 +1,12 @@
+.card1{
+    border-radius: 10px;
+    padding: 20px;
+    background-image: url("https://static.toiimg.com/thumb/msid-98117684,width-1070,height-580,imgsize-33016,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    margin-top:20px ;
+   
+    margin-bottom: 50px;
+    height: 70vh;
+}
